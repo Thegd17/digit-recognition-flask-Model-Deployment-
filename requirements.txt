@@ -3,3 +3,5 @@ tensorflow
 opencv-python
 gunicorn
 numpy
+python-3.10.13
+
