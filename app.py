@@ -16,5 +16,5 @@ def home():
             prediction = int(pred.argmax())
     return render_template("index.html", prediction=prediction)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
